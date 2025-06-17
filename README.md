@@ -79,13 +79,17 @@ This allows users to spot:
 ---
 
 ---
-
+**File-Structure**
 Hospital-ER-Dashboard/
+
 ├── Dashboard.xlsx
 
 ├── Hospital Emergency Room Data.csv
+
 ├── END-TO-END-DASHBOARD.pptx
+
 ├── README.md
+
 └── images/
     ├── dashboard1.png
     ├── dashboard2.png
