@@ -78,6 +78,22 @@ This allows users to spot:
 
 ---
 
+---
+
+Hospital-ER-Dashboard/
+│
+├── 📊 Dashboard.xlsx                     # Final dashboard file
+├── 🏥 Hospital Emergency Room Data.csv   # Source data
+├── 🖼️ images/
+│   ├── dashboard1.png                   # Main dashboard view
+│   ├── dashboard2.png                   # Area chart (daily trend)
+│   ├── Hospital_Logo.png               # Hospital logo
+│
+├── 📄 README.md                          # Project documentation
+├── 📽️ END TO END DASHBOARD PROJECT IN EXCEL.pptx  # Optional presentation
+
+---
+
 ## 🧰 Tools Used
 
 - Microsoft Excel
