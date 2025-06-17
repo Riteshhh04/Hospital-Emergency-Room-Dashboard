@@ -81,16 +81,14 @@ This allows users to spot:
 ---
 
 Hospital-ER-Dashboard/
-│
-├── 📊 Dashboard.xlsx                     # Final dashboard file
-├── 🏥 Hospital Emergency Room Data.csv   # Source data
-├── 🖼️ images/
-│   ├── dashboard1.png                   # Main dashboard view
-│   ├── dashboard2.png                   # Area chart (daily trend)
-│   ├── Hospital_Logo.png               # Hospital logo
-│
-├── 📄 README.md                          # Project documentation
-├── 📽️ END TO END DASHBOARD PROJECT IN EXCEL.pptx  # Optional presentation
+├── Dashboard.xlsx
+├── Hospital Emergency Room Data.csv
+├── END-TO-END-DASHBOARD.pptx
+├── README.md
+└── images/
+    ├── dashboard1.png
+    ├── dashboard2.png
+    └── Hospital_Logo.png
 
 ---
 
