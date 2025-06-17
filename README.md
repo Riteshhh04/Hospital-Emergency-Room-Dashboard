@@ -90,10 +90,11 @@ Hospital-ER-Dashboard/
 
 ├── README.md
 
-└── images/
-    ├── dashboard1.png
-    ├── dashboard2.png
-    └── Hospital_Logo.png
+├── dashboard1.png
+
+├── dashboard2.png
+
+└── Hospital_Logo.png
 
 ---
 
