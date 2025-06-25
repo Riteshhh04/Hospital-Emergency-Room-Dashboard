@@ -45,6 +45,14 @@ The goal of this project is to provide hospital management with real-time insigh
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard Preview](dashboard1.jpeg)
+
+![Dashboard Preview](dashboard2.jpeg)
+
+---
+
 ## 📌 KPI’s Tracked
 
 - **Number of Patients**: Daily ER visits with area sparklines to spot peaks
